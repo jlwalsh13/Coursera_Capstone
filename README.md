@@ -1,1 +1,1 @@
-# Coursera_Capstone
+Coursera Data Science Certificate Capstone: Employed various Python libraries to gather city and neighborhood data from various sources including the Foursquare developer API and used clustering and classification to determine whether Toronto was most similar to Chicago, New York or Los Angeles.
